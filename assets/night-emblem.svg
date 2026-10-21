@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="120" viewBox="0 0 220 120" role="img" aria-label="Original abstract nocturnal emblem">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe08a"/><stop offset="1" stop-color="#c58a20"/></linearGradient><filter id="s"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<ellipse cx="110" cy="60" rx="94" ry="46" fill="#f7c85c" opacity=".12" filter="url(#s)"/>
+<path d="M18 42L50 51L65 25L82 48L110 35L138 48L155 25L170 51L202 42L192 78L164 91L143 76L126 94L110 80L94 94L77 76L56 91L28 78Z" fill="url(#g)" stroke="#fff0bf" stroke-width="2"/>
+<path d="M88 53L110 63L132 53L124 75L110 69L96 75Z" fill="#111827"/>
+</svg>

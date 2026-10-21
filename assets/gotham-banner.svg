@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">GOTHAM // Developer profile banner</title>
+<desc id="desc">An original dark Gotham-inspired skyline with animated rain, scanning light and a glowing moon.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070d"/><stop offset=".55" stop-color="#101827"/><stop offset="1" stop-color="#1a0f22"/></linearGradient>
+  <radialGradient id="moon"><stop stop-color="#e9f6ff" stop-opacity=".95"/><stop offset="1" stop-color="#68baff" stop-opacity=".03"/></radialGradient>
+  <linearGradient id="beam"><stop stop-color="#f7c85c" stop-opacity="0"/><stop offset=".5" stop-color="#f7c85c" stop-opacity=".16"/><stop offset="1" stop-color="#f7c85c" stop-opacity="0"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<circle cx="940" cy="94" r="76" fill="url(#moon)"/>
+<circle cx="940" cy="94" r="42" fill="#dcefff" opacity=".14"/>
+<g fill="#0a0d15" stroke="#27354b" stroke-width="1">
+<path d="M0 280V174h48v-40h23v40h29v-66h17v-25h8v25h24v172z"/>
+<path d="M120 300V205h38v-52h18v52h27v-88h12v-25h7v25h19v183z"/>
+<path d="M240 300V150h31v-30h11V85h9v35h18v30h29v150z"/>
+<path d="M325 300V196h42v-65h16v-35h8v35h20v65h35v100z"/>
+<path d="M430 300V160h22v-43h14V80h9v37h19v43h25v140z"/>
+<path d="M520 300V220h28v-55h15v-35h8v35h22v55h27v80z"/>
+<path d="M630 300V170h28v-37h14v-43h9v43h22v37h28v130z"/>
+<path d="M735 300V205h32v-45h18v-70h9v70h18v45h29v95z"/>
+<path d="M850 300V180h25v-33h15v-48h8v48h21v33h22v120z"/>
+<path d="M950 300V220h36v-54h18v-35h8v35h22v54h30v80z"/>
+<path d="M1060 300V177h34v-42h15v-27h8v27h20v42h63v123z"/>
+</g>
+<g fill="#f7c85c" opacity=".6">
+<path d="M277 147h4v8h-4zM285 147h4v8h-4zM352 212h4v7h-4zM360 212h4v7h-4zM458 172h4v7h-4zM466 172h4v7h-4zM667 190h4v8h-4zM675 190h4v8h-4zM780 224h4v7h-4zM788 224h4v7h-4zM1000 238h4v8h-4zM1008 238h4v8h-4z"/>
+</g>
+<path d="M0 300H1200V360H0z" fill="#05070d"/>
+<path d="M0 315H1200" stroke="#f7c85c" stroke-opacity=".7"/>
+<path d="M-100 360L380 300h80L20 360z" fill="url(#beam)">
+<animateTransform attributeName="transform" type="translate" values="-80 0;80 0;-80 0" dur="12s" repeatCount="indefinite"/>
+</path>
+<g font-family="monospace" fill="#e8f1ff">
+<text x="56" y="76" font-size="13" letter-spacing="5" fill="#f7c85c">GOTHAM CITY // NIGHT SHIFT</text>
+<text x="52" y="132" font-size="44" font-weight="700" letter-spacing="2">BUILD IN SILENCE.</text>
+<text x="54" y="166" font-size="21" fill="#a8bad2">LET THE CODE SPEAK.</text>
+<text x="56" y="205" font-size="13" fill="#91a5c0">FULL-STACK • PYTHON • SYSTEM THINKING</text>
+</g>
+<g transform="translate(1040 34)" filter="url(#glow)">
+<path d="M0 18L-13 0L-5 2L0 10L5 2L13 0Z" fill="#f7c85c"/>
+<path d="M-24 14Q-18 6 -8 12L0 18L8 12Q18 6 24 14L20 27L9 22L0 31L-9 22L-20 27Z" fill="#f7c85c" opacity=".9"/>
+</g>
+<g stroke="#8ab9e8" stroke-opacity=".3">
+<path d="M15 -45l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M60 -90l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M105 -65l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M150 -40l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M195 -85l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M240 -60l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M285 -35l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M330 -80l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M375 -55l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M420 -30l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M465 -75l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M510 -50l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M555 -95l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M600 -70l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M645 -45l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M690 -90l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M735 -65l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M780 -40l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M825 -85l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M870 -60l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M915 -35l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M960 -80l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M1005 -55l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M1050 -30l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M1095 -75l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M1140 -50l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+<path d="M1185 -95l-35 100"><animate attributeName="opacity" values=".1;.55;.1" dur="1.3s" repeatCount="indefinite"/></path>
+</g>
+<rect x="1" y="1" width="1198" height="358" fill="none" stroke="#f7c85c" stroke-opacity=".55"/>
+</svg>

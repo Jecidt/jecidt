@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" aria-labelledby="title desc">
+<title id="title">Emblema Jecidt — Protocolo Gotham</title><desc id="desc">Símbolo geométrico original con alas, inicial J y un halo azul animado.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#68e1ff"/><stop offset=".5" stop-color="#378bff"/><stop offset="1" stop-color="#a7f3ff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="120" cy="80" r="57" fill="#061120" stroke="url(#g)" stroke-width="2.4" opacity=".95"><animate attributeName="r" values="55;59;55" dur="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="120" cy="80" r="67" fill="none" stroke="#3cbcff" stroke-width="1" opacity=".48"><animate attributeName="opacity" values=".18;.62;.18" dur="3.4s" repeatCount="indefinite"/></circle>
+<path d="M120 43 L107 58 L84 53 L87 68 L61 60 L67 76 L40 76 L53 86 L48 96 L70 95 L79 110 L99 104 L111 119 L120 110 L129 119 L141 104 L161 110 L170 95 L192 96 L187 86 L200 76 L173 76 L179 60 L153 68 L156 53 L133 58 Z" fill="url(#g)" filter="url(#glow)" opacity=".95"/>
+<path d="M120 62 L120 109 Q120 121 105 119" fill="none" stroke="#061120" stroke-width="8" stroke-linecap="round"/><path d="M120 62 L120 109 Q120 121 105 119" fill="none" stroke="#eafaff" stroke-width="3.2" stroke-linecap="round"/>
+<path d="M39 143 H201" stroke="#328cff" stroke-width="1.5" opacity=".75"><animate attributeName="stroke-dasharray" values="0 162;162 0;0 162" dur="5s" repeatCount="indefinite"/></path>
+</svg>

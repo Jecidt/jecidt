@@ -1,35 +1,12 @@
 # Activar la serpiente de contribuciones
 
-1. En tu repositorio de perfil, crea `.github/workflows/snake.yml`.
-2. Sustituye `Jecidt` por tu usuario.
-3. Guarda el archivo y abre la pestaña **Actions** para ejecutar el workflow.
+El workflow `.github/workflows/snake.yml` genera dos SVG y los publica en la rama `output` del mismo repositorio.
 
-```yaml
-name: Generate contribution snake
-on:
-  schedule:
-    - cron: "17 2 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Jecidt
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+1. Sube todos los archivos de este paquete a `Jecidt/jecidt`, respetando las carpetas.
+2. En GitHub, abre **Settings → Actions → General** y confirma que los workflows están habilitados.
+3. En la sección de permisos del workflow, permite escritura de contenidos si la política del repositorio lo exige.
+4. Abre **Actions → Generate contribution snake → Run workflow** y ejecuta el workflow manualmente.
+5. Comprueba que el workflow termina en verde y que existe la rama `output` con los SVG.
+6. Recarga el README del perfil. El primer render puede tardar unos minutos.
 
-Cuando termine, la imagen del README debe apuntar a:
-`https://raw.githubusercontent.com/Jecidt/Jecidt/output/github-contribution-grid-snake.svg`
-
-Si no quieres usar GitHub Actions, elimina la sección de la serpiente del README.
+Si falla, abre el run en Actions y revisa el paso que aparece en rojo. Las políticas de una organización pueden impedir permisos de escritura incluso si el workflow los solicita. No guardes tokens personales dentro del README.

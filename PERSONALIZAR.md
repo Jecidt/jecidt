@@ -1,13 +1,21 @@
-# Personalizar tu README de perfil
+# Personalizar Gotham Edition
 
-## Publicarlo
-1. Crea un repositorio público con el mismo nombre exacto que tu usuario de GitHub.
-2. Sube `README.md` y la carpeta `assets/`.
-3. Sustituye `TU-USUARIO` por tu nombre de usuario real en todos los enlaces.
-4. No se agregó un correo porque no se proporcionó uno.
-5. Para la serpiente animada, sigue `docs/ENABLE-SNAKE.md`.
+## Publicación
+1. Abre `https://github.com/Jecidt/jecidt`.
+2. Pulsa **Add file → Upload files**.
+3. Sube el contenido de esta carpeta, conservando `assets/`, `.github/` y `docs/`.
+4. Reemplaza el `README.md` antiguo y confirma con **Commit changes**.
 
-## Importante
-- GitHub muestra el README del repositorio que coincide exactamente con tu usuario.
-- Las estadísticas y las animaciones externas dependen de servicios de terceros.
-- Los resúmenes de proyectos son áreas de enfoque; asegúrate de que coincidan con lo que tienes publicado.
+## Serpiente de contribuciones
+- Abre **Settings → Actions → General** y comprueba que Actions está permitido.
+- En **Workflow permissions**, permite los permisos de escritura si la política del repositorio lo requiere.
+- Abre **Actions → Generate contribution snake → Run workflow**.
+- Espera a que termine y verifica que se creó la rama `output`.
+
+## Editar contenido
+- Cambia el texto de `README.md` para actualizar tu presentación.
+- Banner: `assets/gotham-banner.svg`.
+- Emblema: `assets/night-emblem.svg`.
+- Reemplaza las tarjetas de ejemplo de proyectos por enlaces reales cuando tengas sus repositorios públicos.
+
+Las estadísticas y el gráfico de actividad dependen de servicios externos; pueden tardar o fallar temporalmente. No añadas tokens personales al README ni a los archivos del repositorio.

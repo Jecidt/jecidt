@@ -1,243 +1,126 @@
 <div align="center">
-
-<img src="assets/gotham-banner.svg" alt="Gotham-inspired developer banner" width="100%"/>
-
-<img src="assets/night-emblem.svg" alt="Original night emblem" width="150"/>
-
-# `JECIDT SEBASTIÁN` 
-### `FULL-STACK DEVELOPER IN TRAINING · THE NIGHT SHIFT`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=650&color=F7C85C&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+working+software.;Building+with+discipline%2C+curiosity+and+purpose.;Python+%7C+Full+Stack+%7C+Database+Design;Welcome+to+my+corner+of+Gotham." alt="Animated profile introduction"/>
-
-<p>
-  <a href="https://github.com/Jecidt"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-f7c85c?style=for-the-badge&labelColor=0b1020" alt="Always learning"/>
-  <img src="https://img.shields.io/badge/MODE-NIGHT%20SHIFT-68baff?style=for-the-badge&labelColor=0b1020" alt="Night shift"/>
-</p>
-
-**Build in silence. Solve real problems. Let the code speak.**
-
-[About me](#-who-is-behind-the-mask) · [Projects](#-classified-project-files) · [Tech](#-the-utility-belt) · [Stats](#-live-gotham-telemetry) · [Contact](#-send-the-signal)
-
+  <img src="./assets/gotham-banner.svg" alt="Jecidt — Welcome to Gotham" width="100%" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=800&color=63DDF5&center=true&vCenter=true&width=720&lines=FULL-STACK+DEVELOPER+IN+TRAINING;BUILDING+TOOLS%2C+NOT+JUST+LINES+OF+CODE;PYTHON+%7C+WEB+DEVELOPMENT+%7C+PROBLEM+SOLVING;WELCOME+TO+MY+CORNER+OF+GOTHAM" alt="Typing intro" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Jecidt&style=for-the-badge&color=101b36&label=PROFILE+SCANS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Jecidt?style=for-the-badge&logo=github&label=ALLIES&color=172a4d" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-102b3f?style=for-the-badge&logo=codefactor&logoColor=65ddff" alt="Status: learning and building" />
 </div>
 
 ---
 
-## 🦇 WHO IS BEHIND THE MASK?
+## `01 / THE DEVELOPER BEHIND THE MASK`
 
-I'm a developer in progress who enjoys turning ambitious ideas into practical software. I'm interested in full-stack development, Python, database-backed applications, and interfaces that feel as good to use as they are to look at.
+> *“It’s not who I am underneath, but what I do that defines me.”* — Bruce Wayne
 
-The Batman / Bruce Wayne influence is the *visual and mindset inspiration*: focus, preparation, curiosity, and persistence. The mission here is real-world software—not just a cool-looking screen.
+I'm **Jecidt**, a developer in progress who enjoys turning ideas into useful software. I’m learning by building, testing, breaking things, and improving them until they make sense—not just until they run.
 
-- 🔭 **Building:** full-stack applications and practical learning projects.
-- 🌱 **Learning:** Python, software architecture, data modeling, and reliable application behavior.
-- 🧠 **Focused on:** connecting user experience, business rules, backend logic, and database persistence.
-- 🎯 **My standard:** a feature should work end-to-end, not merely look finished.
-- 🌃 **Aesthetic:** Gotham after dark—black, midnight blue, electric blue, and signal gold.
+- **Current focus:** Python, web development, and full-stack project building.
+- **My approach:** learn the fundamentals, keep code readable, and make features genuinely useful.
+- **What I'm working toward:** stronger engineering habits, practical applications, and a portfolio built on real projects.
+- **My rule:** curiosity first, consistency always.
 
-> *A good interface gets attention. Reliable software earns trust.*
+## `02 / THE TOOL BELT`
 
-## 🎯 THE MISSION
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql&perline=8&theme=dark" alt="Technology icons: Python, HTML, CSS, JavaScript, Git, GitHub, VS Code and MySQL" />
+</div>
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr><td width="50%" valign="top">
 
-### 🧩 Think like an engineer
-- Understand the problem before coding.
-- Turn requirements into observable behavior.
-- Keep responsibilities separated.
-- Design for errors and edge cases.
-- Verify that data persists correctly.
+**LANGUAGES & WEB**
 
-</td>
-<td width="50%" valign="top">
+- Python — logic, scripts, learning projects
+- HTML & CSS — structured, responsive interfaces
+- JavaScript — interactive web experiences
 
-### ⚡ Build like a creator
-- Make interfaces clear and responsive.
-- Learn by shipping practical projects.
-- Refine details without losing the goal.
-- Document setup and important decisions.
-- Improve one release at a time.
+  </td><td width="50%" valign="top">
 
-</td>
-</tr>
+**WORKFLOW & DATA**
+
+- Git and GitHub — version control
+- MySQL — relational data fundamentals
+- VS Code — daily development environment
+
+  </td></tr>
 </table>
 
-## 🗂️ CLASSIFIED PROJECT FILES
+*These are my current learning and project areas—not a claim of expert-level proficiency.*
 
-### `01 / AXISFIT — TRAINING MANAGEMENT`
+## `03 / PROJECTS FROM THE CAVE`
 
-**Mission:** connect training plans, users, instructors, and daily activity in one consistent application.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ AxisFit</h3>
+      <p>A fitness and training management system concept focused on making routines, users, and instructor workflows work together.</p>
+      <p><code>FULL-STACK</code> <code>DATABASE</code> <code>UX</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 Python Quest</h3>
+      <p>An educational game concept designed to help beginners learn programming through guided practice and challenges.</p>
+      <p><code>PYTHON</code> <code>LEARNING</code> <code>GAME LOGIC</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦇 Gotham Lab</h3>
+      <p>A personal space for experiments, small utilities, UI concepts, and the lessons that come from building them.</p>
+      <p><code>EXPERIMENTS</code> <code>TOOLS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚧 Next mission</h3>
+      <p>Ship smaller, polished projects with clear documentation, meaningful tests, and maintainable structure.</p>
+      <p><code>IN PROGRESS</code> <code>KEEP IMPROVING</code></p>
+    </td>
+  </tr>
+</table>
 
-What I care about building well:
-- Role-aware experiences for instructors, apprentices, and employees.
-- Routine assignment with clear exercises and schedules.
-- Database persistence from creation through display.
-- Daily workout information that users can understand quickly.
-- Predictable handling of missed sessions and attendance.
-- Business rules that stay consistent across the interface and database.
+> Project cards above describe my project directions. Replace or link each card to its repository when the corresponding public repo is ready.
 
-`FOCUS: FULL STACK · DATABASE DESIGN · BUSINESS LOGIC · UX`
-
-### `02 / PYTHON QUEST — LEARN BY PLAYING`
-
-**Mission:** make Python less intimidating for absolute beginners through small challenges, feedback, and progression.
-
-Planned learning levels:
-- Variables, data types, and operators.
-- Conditions and loops.
-- Strings and collections.
-- Functions and scope.
-- Exceptions, files, and modules.
-- Object-oriented programming.
-- Testing, debugging, and a final project.
-
-`FOCUS: PYTHON · EDUCATION · GAME DESIGN · PROBLEM SOLVING`
-
-### `03 / GOTHAM LAB — EXPERIMENTS`
-
-A workshop for prototypes, small utilities, interface ideas, automation, and experiments that help me learn by doing.
-
-Every experiment should answer four questions:
-1. What problem does it solve?
-2. What is the smallest useful version?
-3. How will I test that it works?
-4. What is the next improvement?
-
-`FOCUS: PROTOTYPING · CONTINUOUS LEARNING · CREATIVE ENGINEERING`
-
-> These project summaries describe my focus and goals. I only mark a project as completed when the repository and working implementation support that claim.
-
-## 🧰 THE UTILITY BELT
+## `04 / ACTIVITY FROM GOTHAM`
 
 <div align="center">
-
-### Languages & web foundations
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Technology icons" />
-
-### My engineering priorities
-
-<img src="https://img.shields.io/badge/CLEAN%20CODE-Readable%20%26%20maintainable-182235?style=flat-square" alt="Clean code"/>
-<img src="https://img.shields.io/badge/DATABASES-Integrity%20%26%20persistence-182235?style=flat-square" alt="Databases"/>
-<img src="https://img.shields.io/badge/TESTING-Verify%20the%20behavior-182235?style=flat-square" alt="Testing"/>
-<img src="https://img.shields.io/badge/UX-Clear%20and%20responsive-182235?style=flat-square" alt="User experience"/>
-<img src="https://img.shields.io/badge/SECURITY-Protect%20secrets-182235?style=flat-square" alt="Security"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jecidt&show_icons=true&hide_border=true&bg_color=080d19&title_color=68def6&icon_color=68def6&text_color=d8e7f7&ring_color=68def6&include_all_commits=true" alt="GitHub statistics for Jecidt" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jecidt&layout=compact&hide_border=true&bg_color=080d19&title_color=68def6&text_color=d8e7f7&langs_count=8" alt="Most used languages on GitHub" />
 </div>
 
-I keep this list as a snapshot of tools and topics I am exploring—not a claim that I have mastered every item. Skill is built through practice, feedback, and projects that work.
-
-## 🛰️ LIVE GOTHAM TELEMETRY
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jecidt&show_icons=true&hide_border=true&bg_color=0b1020&title_color=f7c85c&icon_color=68baff&text_color=e8f1ff&ring_color=f7c85c" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jecidt&layout=compact&hide_border=true&bg_color=0b1020&title_color=f7c85c&text_color=e8f1ff" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Jecidt&hide_border=true&background=0b1020&ring=f7c85c&fire=ff7b54&currStreakLabel=f7c85c&sideLabels=e8f1ff&currStreakNum=e8f1ff&sideNums=e8f1ff&dates=8aa0bd" alt="Contribution streak"/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jecidt&bg_color=0b1020&color=e8f1ff&line=f7c85c&point=68baff&area=true&hide_border=true" alt="Contribution activity graph"/>
-
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jecidt&hide_border=true&background=080d19&ring=68def6&fire=ffb454&currStreakLabel=68def6&sideLabels=d8e7f7&currStreakNum=ffffff&sideNums=ffffff&dates=8ba6c7" alt="GitHub contribution streak" />
 </div>
 
-<sub>Stats are loaded from external services and may take time to appear. Your GitHub username is `Jecidt`.</sub>
-
-## 🐍 CONTRIBUTION SNAKE
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Jecidt/Jecidt/output/github-contribution-grid-snake.svg" alt="Animated contribution snake; enable the workflow to activate it" width="98%"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jecidt&bg_color=080d19&color=d8e7f7&line=4bd8f4&point=ffffff&area=true&hide_border=true&custom_title=GOTHAM%20ACTIVITY%20LOG" alt="GitHub activity graph" />
 </div>
 
-To enable it, configure `.github/workflows/snake.yml` using the instructions in `docs/ENABLE-SNAKE.md`. The rest of the profile works without it.
+*Stats are served by external services and may take time to load or be temporarily unavailable. Language percentages reflect repository code, not skill level.*
 
-## 🖥️ GOTHAM STATUS
-
-```text
-┌────────────────────────────────────────────────────────────────┐
-│  OPERATOR       JECIDT                         STATUS: LEARNING │
-├────────────────────────────────────────────────────────────────┤
-│  MAIN OBJECTIVE Build software that solves real problems       │
-│  CURRENT PATH   Full Stack + Python + Database-backed apps     │
-│  SPECIAL SKILL  Turning vague ideas into clear requirements    │
-│  SIDE QUEST     Make learning feel like an adventure           │
-│  CURRENT BOSS   Complexity                                    │
-│  COUNTER-MOVE   Break it down. Build it. Test it. Improve it.   │
-└────────────────────────────────────────────────────────────────┘
-```
-
-## 🧭 THE ROADMAP
-
-- [ ] Build more end-to-end applications with persistent data.
-- [ ] Strengthen Python fundamentals through practical projects.
-- [ ] Add automated tests for important business rules.
-- [ ] Improve database modeling and query design.
-- [ ] Make interfaces responsive and accessible.
-- [ ] Improve documentation, setup instructions, and release quality.
-- [ ] Share projects with clear demos and honest descriptions.
-
-## 🔍 HOW I DEBUG
-
-1. **Reproduce** the problem reliably.
-2. **Observe** the exact input, output, and error.
-3. **Trace** the data from the UI to the backend and database.
-4. **Isolate** the smallest part that causes the behavior.
-5. **Fix** the cause, not just the visible symptom.
-6. **Test** the normal case and likely failure cases.
-7. **Document** the lesson so the same issue is easier next time.
-
-## 🧪 MY DEFINITION OF “DONE”
-
-- [ ] The feature meets its requirement.
-- [ ] Data remains correct after refreshing the page.
-- [ ] Permissions are enforced by the application, not just hidden buttons.
-- [ ] Empty, loading, success, and error states are handled.
-- [ ] Invalid input produces useful feedback.
-- [ ] The layout works on desktop and mobile.
-- [ ] Another developer can run the project from the documentation.
-- [ ] No passwords, API keys, or private data are committed.
-
-## 🧠 THE CODE PHILOSOPHY
-
-```python
-def build_something_useful(problem):
-    requirements = understand(problem)
-    plan = break_into_small_steps(requirements)
-    solution = implement(plan)
-    verify(solution)
-    improve(solution)
-    return solution
-```
-
-**Curiosity starts the mission. Discipline keeps it moving. Testing confirms the result.**
-
-## 🤝 COLLABORATION PROTOCOL
-
-I appreciate people who are curious, direct, and willing to make an idea better.
-
-- Share the problem you are trying to solve.
-- Include steps to reproduce a bug when possible.
-- Explain important constraints early.
-- Give constructive feedback and stay open to alternatives.
-- Celebrate progress while staying honest about what still needs work.
-
-## 📡 SEND THE SIGNAL
+## `05 / CONTRIBUTION SIGNAL`
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jecidt/Jecidt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jecidt/Jecidt/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Jecidt/Jecidt/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
-<a href="https://github.com/Jecidt"><img src="https://img.shields.io/badge/GitHub-TU--USUARIO-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="mailto:TU-CORREO@EJEMPLO.COM"><img src="https://img.shields.io/badge/Email-Contact%20me-f7c85c?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email"/></a>
+If the snake is not visible yet, enable GitHub Actions in this repository and run the **Generate contribution snake** workflow. Setup notes are in [`docs/ENABLE-SNAKE.md`](./docs/ENABLE-SNAKE.md).
 
-<br/>
+## `06 / THE CODE I TRY TO LIVE BY`
 
-<img src="assets/night-emblem.svg" alt="Night emblem" width="110"/>
+<div align="center">
+  <table><tr><td align="center"><b>01 — STAY CURIOUS</b><br/>Ask why. Learn how.</td><td align="center"><b>02 — BUILD WITH INTENT</b><br/>Solve a real problem.</td><td align="center"><b>03 — ITERATE</b><br/>Every version can improve.</td></tr></table>
+</div>
 
-### `END OF TRANSMISSION // GOTHAM OUT`
+## `07 / OPEN CHANNEL`
 
-**Thanks for stopping by. Keep building. Keep learning.**
-
-<sub>Original Gotham-inspired visual identity · Built for a GitHub profile README</sub>
-
+<div align="center">
+  <a href="https://github.com/Jecidt"><img src="https://img.shields.io/badge/GitHub-Follow%20the%20signal-111827?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" /></a>
+  <br/><br/>
+  <i>Every great system starts with one line of code.</i>
+  <br/>
+  <sub>GOTHAM SYSTEMS // JECIDT // KEEP BUILDING</sub>
 </div>
